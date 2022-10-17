@@ -1,4 +1,4 @@
-function showNavLinks(){
+function toggleNavLinks(){
     let x = document.getElementById("navLinks");
     if (x.style.display === "block"){
         x.style.display = "none";
